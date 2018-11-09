@@ -1,2 +1,10 @@
-.ipy*
+data/
 
+.ipy*
+*.csv
+*.jpg
+*.h5
+*.tfevents*
+*.txt
+*__pycache__*
+*.zip
