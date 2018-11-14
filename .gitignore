@@ -9,3 +9,4 @@ temp/
 *.txt
 *__pycache__*
 *.zip
+test*
