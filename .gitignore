@@ -1,5 +1,6 @@
 data/
 temp/
+model*/
 
 .ipy*
 *.csv
@@ -10,3 +11,4 @@ temp/
 *__pycache__*
 *.zip
 test*
+model*
