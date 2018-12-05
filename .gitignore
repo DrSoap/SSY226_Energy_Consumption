@@ -1,6 +1,7 @@
 data/
 temp/
 model*/
+Collected data/
 
 .ipy*
 *.csv
